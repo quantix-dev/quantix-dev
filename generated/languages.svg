@@ -104,7 +104,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #000080;width: 49.770%;" class="progress-item"></span><span style="background-color: #3572A5;width: 27.209%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 22.972%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.049%;" class="progress-item"></span>
+<span style="background-color: #000080;width: 46.656%;" class="progress-item"></span><span style="background-color: #3572A5;width: 25.507%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 21.535%;" class="progress-item"></span><span style="background-color: #945db7;width: 6.256%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.046%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -116,7 +116,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Lua</span>
-<span class="percent">49.77%</span>
+<span class="percent">46.66%</span>
 </li>
 
 
@@ -125,7 +125,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">27.21%</span>
+<span class="percent">25.51%</span>
 </li>
 
 
@@ -134,11 +134,20 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">22.97%</span>
+<span class="percent">21.53%</span>
 </li>
 
 
 <li style="animation-delay: 450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#945db7;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Visual Basic .NET</span>
+<span class="percent">6.26%</span>
+</li>
+
+
+<li style="animation-delay: 600ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#C1F12E;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
