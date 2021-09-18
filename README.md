@@ -4,6 +4,7 @@ Hi, I love programming! I love it so much in fact that i've been doing it for we
 <br>
 
 ## How to find me? 🔍
+<a href="https://quantix.dev"><img align="center" src="https://github.com/quantix-dev/quantix-dev/blob/master/images/website.png" alt = "Website" width="35px"> **Quantix.Dev**</a><br><br>
 <a href="https://twitter.com/quantixdev"><img align="center" src="https://github.com/quantix-dev/quantix-dev/blob/master/images/twitter.png" alt="Twitter" width="35px"> **@quantixdev**</a><br><br>
 <a href="https://discord.com"><img align="center" src="https://github.com/quantix-dev/quantix-dev/blob/master/images/discord.png" alt="Discord" width="35px"> **Quantix#1799**</a><br><br>
 <a href="https://devforum.roblox.com/u/QuantixDev"><img align="center" src="https://github.com/quantix-dev/quantix-dev/blob/master/images/devforum.png" alt="Devforum" width="35px"> **@QuantixDev**</a>
