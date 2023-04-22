@@ -13,7 +13,6 @@ I've worked on numerous projects and games - some of them ending up on here - an
   <img align="left" src="https://github.com/quantix-dev/quantix-dev/blob/master/images/js.png" alt="JavaScript" width="25px">
   <img align="left" src="https://github.com/quantix-dev/quantix-dev/blob/master/images/csharp.png" alt="C#" width="25px">
   <img align="left" src="https://github.com/quantix-dev/quantix-dev/blob/master/images/java.png" alt="Java" width="25px">
-  <img align="left" src="https://github.com/quantix-dev/quantix-dev/blob/master/images/python.png" alt="Python" width="25px">
 </span>
   
 <br><br><br>
